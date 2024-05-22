@@ -1,5 +1,5 @@
 use std::{thread, time::Duration};
-use minecraft::macsdl::Macsdl;
+use rustcraft::macsdl::Macsdl;
 
 
 

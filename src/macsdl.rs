@@ -20,7 +20,7 @@ impl Macsdl {
         Ok( Macsdl {
             sdl,
             window,
-            event_pump
+            event_pump,
         }
         )
     }
